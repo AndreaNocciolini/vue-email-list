@@ -5,7 +5,6 @@
 const app = new Vue (
     {
       el: "#app",
-      counter: 10,
       data : {
         emails: []
       },
